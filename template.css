@@ -1,0 +1,392 @@
+* {
+    margin:0; 
+    padding:0; 
+    text-indent:0; 
+}
+.box1{
+    width:210pt;
+    border:2pt solid;
+}
+.fullbox{
+    border-collapse:collapse;
+    margin-left:6.125pt;
+}
+.header1{
+    padding-left: 4pt;
+    text-indent: 0pt;
+    line-height: 11pt;
+    text-align: left;
+}
+.podetails{
+    width:250pt;    
+    border: 2pt solid;
+}
+.email{
+    color: black; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    text-decoration: none; 
+    font-size: 9pt;
+}
+.left_header{
+    padding-top: 8pt;
+    padding-left: 59pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.address2{
+    padding-top: 4pt;
+    padding-left: 4pt;
+    padding-right: 103pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.address3{
+    padding-left: 4pt;
+    text-indent: 0pt;
+    line-height: 10pt;
+    text-align: left;
+}
+#logoimg{
+    position: relative; 
+    left: 90pt;
+}
+.logobox{
+    padding-left: 71pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.tr1{
+    height:98pt;
+}
+.tr2{
+    height:23pt;
+}
+.tr3{
+    height:20pt;
+}
+.tr4{
+    height:397pt;
+}
+.tr5{
+    height:18pt;
+}
+.tr6{
+    height:82pt;
+}
+.box2{
+    padding-top: 1pt;
+    padding-left: 4pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.box3{
+    padding-top: 5pt;
+    padding-left: 4pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.box4{
+    padding-left: 4pt; 
+    text-indent: 0pt;
+    text-align: left;
+}
+.box5{
+    width:40pt;
+    max-width:40pt;
+    border: 2pt solid;
+}
+.datatable tr td:nth-last-child(6){
+    width:40pt;
+    max-width:40pt;
+    border: 2pt solid ;
+    min-height: 397pt;
+    max-height: 397pt;
+}
+.box6{
+    width:225pt;
+    border: 2pt solid;    
+}
+.datatable tr{
+    min-height: 397pt !important;
+    min-height: 397pt !important;
+}
+.datatable tr td:nth-last-child(5){
+    width:225pt;
+    border: 2pt solid ; 
+    min-height: 397pt !important;
+    max-height: 397pt; 
+}
+.box7{
+    width:60pt;
+    max-width:60pt;
+    border:2pt solid;
+}
+.datatable tr td:nth-last-child(4){
+    width:60pt;
+    max-width:60pt;
+    border:2pt solid;
+    min-height: 397pt;
+    max-height: 397pt;
+}
+.box8{
+    width:55pt;
+    max-width:55pt;
+    border:2pt solid;    
+}
+.datatable tr td:nth-last-child(3){
+    width:55pt;
+    max-width:55pt;
+    border:2pt solid; 
+    min-height: 397pt;
+    max-height: 397pt;
+}
+.box9{
+    width:75pt;
+    max-width:75pt;
+    border:2pt solid ;    
+}
+.datatable tr td:nth-last-child(2){
+    width:75pt;
+    max-width:75pt;
+    border:2pt solid; 
+    min-height: 397pt;
+    max-height: 397pt;
+}
+.box10{
+    width:85pt;
+    max-width: 85pt;
+    border:2pt solid ;   
+}
+.datatable tr td:nth-last-child(1){
+    width:85pt;
+    max-width: 85pt;
+    border:2pt solid; 
+    min-height: 397pt;
+    max-height: 397pt;
+}
+.box11{
+    width:540pt;
+    border:2pt solid;  
+}
+.smallbox1{
+    padding-top: 3pt;
+    padding-left: 8pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+#signimg{
+    position: relative;
+    left:70pt;
+    top: 15pt;
+}
+.smallbox2{
+    padding-top: 3pt;
+    padding-left: 77pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.smallbox3{
+    padding-top: 3pt;
+    padding-left: 19pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.smallbox4{
+    padding-top: 3pt;
+    padding-left: 15pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.smallbox5{
+    padding-top: 3pt;
+    padding-left: 10pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.smallbox6{
+    padding-top: 3pt;
+    padding-left: 6pt;
+    padding-right: 3pt;
+    text-indent: 0pt;
+    text-align: center;
+}
+.smallbox7{
+    padding-top: 5pt;
+    padding-left: 39pt;
+    text-indent: 0pt;
+    text-align: left;    
+}
+.smallbox8{
+    padding-left: 42pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.smallbox9{
+    padding-left: 29pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+.smallbox10{
+    padding-right: 2pt;
+    text-indent: 0pt;
+    text-align: right;
+}
+.smallbox11{
+    padding-top: 5pt;
+    padding-left: 6pt;
+    text-indent: 0pt;
+    text-align: center;
+}
+.smallbox12{
+    text-indent: 0pt;
+    text-align: center;
+    /* font-size: 16px;
+    font-family:"Gill Sans";  */
+
+}
+.smallbox13{
+    width:380pt;
+    border:2pt solid;
+}
+.smallbox14{
+    width:270pt;
+    border:2pt solid;
+}
+.smallbox15{
+    padding-left: 109pt;
+    text-indent: 0pt;
+    line-height: 11pt;
+    text-align: left;
+}
+.smallbox16{
+    padding-left: 149pt;
+    text-indent: 0pt;
+    text-align: left;   
+}
+.s1 { 
+    color: black; 
+    font-family:"Times New Roman", serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    text-decoration: none; 
+    font-size: 10pt; 
+}
+ .s2 { 
+    color: black; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: normal; 
+    text-decoration: none; 
+    font-size: 9pt; 
+}
+ .s3 { 
+    color: black; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    text-decoration: none; 
+    font-size: 9pt; 
+}
+ .s4 { 
+    color: black; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: normal; 
+    text-decoration: none; 
+    font-size: 9pt; 
+}
+ .s5 { 
+    color: black; 
+    font-family:"Times New Roman", serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    text-decoration: none; 
+    font-size: 15pt; 
+}
+ .s6 { 
+    color: #131313; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    text-decoration: none; 
+    font-size: 10pt; 
+}
+ .s7 {
+    color: #131313; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight:normal; 
+    text-decoration: none; 
+    font-size: 9pt; 
+}
+ .s8 { 
+    color: black; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: normal; 
+    text-decoration: none; 
+    font-size: 8pt; 
+}
+ .s9 { 
+    color: black; 
+    font-family:Arial, sans-serif;
+    font-style: normal; 
+    font-weight: normal; 
+    text-decoration: none; 
+    font-size: 7pt; 
+}
+ .s10 { 
+    color: black; 
+    font-family:Arial, sans-serif; 
+    font-style: normal; 
+    font-weight: bold; 
+    text-decoration: none; 
+    font-size: 10pt; 
+}
+table, tbody {
+    vertical-align: top;
+    overflow: visible; 
+}
+.address1{
+    padding-top: 1pt;
+    padding-left: 4pt;
+    text-indent: 0pt;
+    line-height: 115%;
+    text-align: left;
+}
+.gst{
+    padding-top: 4pt;
+    padding-left: 4pt;
+    text-indent: 0pt;
+    text-align: left;
+}
+p.s3.smallbox16 {
+    position: relative;
+    top: 11pt;
+    left: 15pt;
+    
+}
+p.s10.smallbox15 {
+    position: relative;
+    left: 10pt;
+    top: 5pt;
+}
+table.fullbox {
+    position: relative;
+    top: 20pt;
+}
+.textlinecutter{
+    max-width: 225pt;
+    word-wrap: break-word;
+    /* border: 2px solid red; */
+}
+.textlinecutter p {
+    /* margin-top:20px; */
+    /* border: 2px solid red */
+
+}
+.textalign{
+    text-align: left;
+}
